@@ -1,5 +1,5 @@
 # Casafari Case Study
-Data science case study on real estate data extraction, querying and analysis based on real-world Casafari data. All my work has been carried out in the provided Jupyter Notebook (`notebook.ipynb`), which includes a description of my thought process as well. This project has been carried out in 4 days (time allotted for the challenge).
+Data science case study on real estate data extraction, querying and analysis based on real-world [Casafari](https://www.casafari.com/ "Casafari Homepage") data. All my work has been carried out in the provided Jupyter Notebook (`notebook.ipynb`), which includes a description of my thought process as well. This project has been carried out in 4 days (time allotted for the challenge).
 
 # Highlights
 - Data Extraction: crawled relevant information from website using CSS3/XPath selectors and regex.
