@@ -4,5 +4,5 @@ Data science case study on real estate data extraction, querying and analysis ba
 # Highlights
 - Data Extraction: crawled relevant information from website using CSS3/XPath selectors and regex.
 - Data Querying: implemented fully working MySQL platform and executed complex queries.
-- Data Analysis: cleaned and feature-engineered property entries using regex filtering/mapping and TF-IDF vectorizers.
+- Data Preparation: cleaned and feature-engineered property entries using regex filtering/mapping and TF-IDF vectorizers.
 - Data Analysis: identified investment opportunities with an outlier detection solution based on DBSCAN.
